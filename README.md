@@ -1,5 +1,7 @@
 # Reconocimiento de Voz en Unity
-![Captura de pantalla 2023-11-03 224513](https://github.com/Ji07y/ReconocimientoVoz/assets/85076732/a6196efe-17c5-4ece-b560-c71a7def2f9f)
+
+![Captura de pantalla 2023-11-03 224513](https://github.com/Ji07y/ReconocimientoVoz/assets/85076732/fb6f8fc1-07ea-40fe-93f5-88aec19794c3)
+
 https://youtu.be/2DlCYvUwNsU
 
 Este es un proyecto de muestra que demuestra cómo usar el reconocimiento de voz en Unity para controlar un objeto en el juego. En este caso, hemos creado un escenario simple en el que puedes activar y desactivar un objeto llamado "arma" utilizando comandos de voz.
@@ -29,7 +31,8 @@ Este proyecto se basa en el reconocimiento de voz. Cuando se ejecuta el juego, e
 - Pronuncia "desactivar arma" para ocultar el objeto nuevamente.
 
 ## Código Fuente
-![image](https://github.com/Ji07y/ReconocimientoVoz/assets/85076732/9cf14b1e-f190-4e5f-963a-2dacb886c675)
+
+![image](https://github.com/Ji07y/ReconocimientoVoz/assets/85076732/a3c92ffc-0165-4cba-8ca2-77607df0ada9)
 
 
 El código fuente se encuentra en el archivo .cs proporcionado, y aquí se presenta una explicación de las partes clave:
